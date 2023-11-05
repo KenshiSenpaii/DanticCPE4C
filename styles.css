@@ -45,14 +45,6 @@ header {
   z-index: -1;
 }
 
-.title {
-  font-size: 3rem;
-  color: white;
-  text-shadow: 0 0 5px black;
-  position: relative;
-  text-align: center;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -109,7 +101,7 @@ section {
   color: #fff;
   padding: 14px 36px 14px 50px;
   display: inline-block;
-  border-radius: 0 20px 20px 0px;
+  border-radius: 0 40px 40px 0px;
   border: 2px outset black;
   letter-spacing: 2px;
   font-size: 36px;
