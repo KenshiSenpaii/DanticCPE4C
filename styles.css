@@ -102,7 +102,7 @@ section {
   padding: 14px 36px 14px 50px;
   display: inline-block;
   border-radius: 0 40px 40px 0px;
-  border: 2px outset black;
+  border: 5px outset black;
   letter-spacing: 2px;
   font-size: 36px;
   font-family: "CustomFont", sans-serif;
