@@ -234,3 +234,12 @@ section {
   grid-template-columns: repeat(2, 1fr); /* Distribute content into 2 columns */
   gap: 10px; /* Add some spacing between items */
 }
+
+.image-column {
+  text-align: center; /* Center the image horizontally */
+}
+
+.image-column img {
+  max-width: 100%; /* Ensure the image fits within its container */
+  height: auto; /* Maintain the image's aspect ratio */
+}
