@@ -232,7 +232,7 @@ section {
 .footer-content {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 5px;
+  gap: 10px;
   grid-template-areas: 'image text';
 }
 
