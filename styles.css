@@ -223,3 +223,14 @@ section {
   border: 1px solid black;
   width: 100%;
 }
+
+.modal-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Distribute content into 2 columns */
+  gap: 10px; /* Add some spacing between items */
+}
